@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.npl.AppTest" time="0.107" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/home/jcaceresap/jcaceresapage/TI-PARCIAL-FINAL/npl/target/test-classes:/home/jcaceresap/jcaceresapage/TI-PARCIAL-FINAL/npl/target/classes:/home/jcaceresap/.m2/repository/org/slf4j/slf4j-simple/2.0.9/slf4j-simple-2.0.9.jar:/home/jcaceresap/.m2/repository/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar:/home/jcaceresap/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/jcaceresap/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/jcaceresap/.m2/repository/edu/stanford/nlp/stanford-corenlp/4.5.4/stanford-corenlp-4.5.4.jar:/home/jcaceresap/.m2/repository/com/apple/AppleJavaExtensions/1.4/AppleJavaExtensions-1.4.jar:/home/jcaceresap/.m2/repository/de/jollyday/jollyday/0.4.9/jollyday-0.4.9.jar:/home/jcaceresap/.m2/repository/org/apache/commons/commons-lang3/3.3.1/commons-lang3-3.3.1.jar:/home/jcaceresap/.m2/repository/org/apache/lucene/lucene-queryparser/7.5.0/lucene-queryparser-7.5.0.jar:/home/jcaceresap/.m2/repository/org/apache/lucene/lucene-queries/7.5.0/lucene-queries-7.5.0.jar:/home/jcaceresap/.m2/repository/org/apache/lucene/lucene-sandbox/7.5.0/lucene-sandbox-7.5.0.jar:/home/jcaceresap/.m2/repository/org/apache/lucene/lucene-analyzers-common/7.5.0/lucene-analyzers-common-7.5.0.jar:/home/jcaceresap/.m2/repository/org/apache/lucene/lucene-core/7.5.0/lucene-core-7.5.0.jar:/home/jcaceresap/.m2/repository/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar:/home/jcaceresap/.m2/repository/xom/xom/1.3.8/xom-1.3.8.jar:/home/jcaceresap/.m2/repository/xerces/xercesImpl/2.8.0/xercesImpl-2.8.0.jar:/home/jcaceresap/.m2/repository/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.jar:/home/jcaceresap/.m2/repository/xalan/xalan/2.7.2/xalan-2.7.2.jar:/home/jcaceresap/.m2/repository/xalan/serializer/2.7.2/serializer-2.7.2.jar:/home/jcaceresap/.m2/repository/joda-time/joda-time/2.10.5/joda-time-2.10.5.jar:/home/jcaceresap/.m2/repository/org/ejml/ejml-core/0.39/ejml-core-0.39.jar:/home/jcaceresap/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/home/jcaceresap/.m2/repository/org/ejml/ejml-ddense/0.39/ejml-ddense-0.39.jar:/home/jcaceresap/.m2/repository/org/ejml/ejml-simple/0.39/ejml-simple-0.39.jar:/home/jcaceresap/.m2/repository/org/ejml/ejml-fdense/0.39/ejml-fdense-0.39.jar:/home/jcaceresap/.m2/repository/org/ejml/ejml-cdense/0.39/ejml-cdense-0.39.jar:/home/jcaceresap/.m2/repository/org/ejml/ejml-zdense/0.39/ejml-zdense-0.39.jar:/home/jcaceresap/.m2/repository/org/ejml/ejml-dsparse/0.39/ejml-dsparse-0.39.jar:/home/jcaceresap/.m2/repository/org/ejml/ejml-fsparse/0.39/ejml-fsparse-0.39.jar:/home/jcaceresap/.m2/repository/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.jar:/home/jcaceresap/.m2/repository/com/google/protobuf/protobuf-java/3.19.6/protobuf-java-3.19.6.jar:/home/jcaceresap/.m2/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar:/home/jcaceresap/.m2/repository/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359.jar:/home/jcaceresap/.m2/repository/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.jar:/home/jcaceresap/.m2/repository/com/sun/xml/bind/jaxb-impl/2.4.0-b180830.0438/jaxb-impl-2.4.0-b180830.0438.jar:/home/jcaceresap/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar:/home/jcaceresap/.m2/repository/edu/stanford/nlp/stanford-corenlp/4.5.4/stanford-corenlp-4.5.4-models-spanish.jar:/home/jcaceresap/.m2/repository/edu/stanford/nlp/stanford-corenlp/4.5.4/stanford-corenlp-4.5.4-models.jar:"/>
+    <property name="java.vm.vendor" value="Private Build"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Linux"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64"/>
+    <property name="sun.java.command" value="/home/jcaceresap/jcaceresapage/TI-PARCIAL-FINAL/npl/target/surefire/surefirebooter7752438451355629533.jar /home/jcaceresap/jcaceresapage/TI-PARCIAL-FINAL/npl/target/surefire 2024-07-09T21-30-28_983-jvmRun1 surefire5934254400831122230tmp surefire_04532487914419512719tmp"/>
+    <property name="surefire.test.class.path" value="/home/jcaceresap/jcaceresapage/TI-PARCIAL-FINAL/npl/target/test-classes:/home/jcaceresap/jcaceresapage/TI-PARCIAL-FINAL/npl/target/classes:/home/jcaceresap/.m2/repository/org/slf4j/slf4j-simple/2.0.9/slf4j-simple-2.0.9.jar:/home/jcaceresap/.m2/repository/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar:/home/jcaceresap/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/jcaceresap/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/jcaceresap/.m2/repository/edu/stanford/nlp/stanford-corenlp/4.5.4/stanford-corenlp-4.5.4.jar:/home/jcaceresap/.m2/repository/com/apple/AppleJavaExtensions/1.4/AppleJavaExtensions-1.4.jar:/home/jcaceresap/.m2/repository/de/jollyday/jollyday/0.4.9/jollyday-0.4.9.jar:/home/jcaceresap/.m2/repository/org/apache/commons/commons-lang3/3.3.1/commons-lang3-3.3.1.jar:/home/jcaceresap/.m2/repository/org/apache/lucene/lucene-queryparser/7.5.0/lucene-queryparser-7.5.0.jar:/home/jcaceresap/.m2/repository/org/apache/lucene/lucene-queries/7.5.0/lucene-queries-7.5.0.jar:/home/jcaceresap/.m2/repository/org/apache/lucene/lucene-sandbox/7.5.0/lucene-sandbox-7.5.0.jar:/home/jcaceresap/.m2/repository/org/apache/lucene/lucene-analyzers-common/7.5.0/lucene-analyzers-common-7.5.0.jar:/home/jcaceresap/.m2/repository/org/apache/lucene/lucene-core/7.5.0/lucene-core-7.5.0.jar:/home/jcaceresap/.m2/repository/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar:/home/jcaceresap/.m2/repository/xom/xom/1.3.8/xom-1.3.8.jar:/home/jcaceresap/.m2/repository/xerces/xercesImpl/2.8.0/xercesImpl-2.8.0.jar:/home/jcaceresap/.m2/repository/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.jar:/home/jcaceresap/.m2/repository/xalan/xalan/2.7.2/xalan-2.7.2.jar:/home/jcaceresap/.m2/repository/xalan/serializer/2.7.2/serializer-2.7.2.jar:/home/jcaceresap/.m2/repository/joda-time/joda-time/2.10.5/joda-time-2.10.5.jar:/home/jcaceresap/.m2/repository/org/ejml/ejml-core/0.39/ejml-core-0.39.jar:/home/jcaceresap/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/home/jcaceresap/.m2/repository/org/ejml/ejml-ddense/0.39/ejml-ddense-0.39.jar:/home/jcaceresap/.m2/repository/org/ejml/ejml-simple/0.39/ejml-simple-0.39.jar:/home/jcaceresap/.m2/repository/org/ejml/ejml-fdense/0.39/ejml-fdense-0.39.jar:/home/jcaceresap/.m2/repository/org/ejml/ejml-cdense/0.39/ejml-cdense-0.39.jar:/home/jcaceresap/.m2/repository/org/ejml/ejml-zdense/0.39/ejml-zdense-0.39.jar:/home/jcaceresap/.m2/repository/org/ejml/ejml-dsparse/0.39/ejml-dsparse-0.39.jar:/home/jcaceresap/.m2/repository/org/ejml/ejml-fsparse/0.39/ejml-fsparse-0.39.jar:/home/jcaceresap/.m2/repository/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.jar:/home/jcaceresap/.m2/repository/com/google/protobuf/protobuf-java/3.19.6/protobuf-java-3.19.6.jar:/home/jcaceresap/.m2/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar:/home/jcaceresap/.m2/repository/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359.jar:/home/jcaceresap/.m2/repository/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.jar:/home/jcaceresap/.m2/repository/com/sun/xml/bind/jaxb-impl/2.4.0-b180830.0438/jaxb-impl-2.4.0-b180830.0438.jar:/home/jcaceresap/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar:/home/jcaceresap/.m2/repository/edu/stanford/nlp/stanford-corenlp/4.5.4/stanford-corenlp-4.5.4-models-spanish.jar:/home/jcaceresap/.m2/repository/edu/stanford/nlp/stanford-corenlp/4.5.4/stanford-corenlp-4.5.4-models.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/home/jcaceresap"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="/usr/lib/jvm/java-8-openjdk-amd64/jre"/>
+    <property name="basedir" value="/home/jcaceresap/jcaceresapage/TI-PARCIAL-FINAL/npl"/>
+    <property name="file.separator" value="/"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/home/jcaceresap/jcaceresapage/TI-PARCIAL-FINAL/npl/target/surefire/surefirebooter7752438451355629533.jar"/>
+    <property name="sun.boot.class.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_412-8u412-ga-1~24.04.2-b08"/>
+    <property name="user.name" value="jcaceresap"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="5.15.153.1-microsoft-standard-WSL2"/>
+    <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/home/jcaceresap/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.version" value="1.8.0_412"/>
+    <property name="user.dir" value="/home/jcaceresap/jcaceresapage/TI-PARCIAL-FINAL/npl"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Private Build"/>
+    <property name="java.vm.version" value="25.412-b08"/>
+    <property name="java.specification.maintenance.version" value="5"/>
+    <property name="java.ext.dirs" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext:/usr/java/packages/lib/ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.npl.AppTest" time="0.003"/>
+</testsuite>
